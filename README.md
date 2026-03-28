@@ -1,2 +1,18 @@
-# 4-bit-ALU
-4-bit ALU design performing arithmetic (addition, subtraction, increment, decrement) and logical (AND, OR, XOR, NOT) operations on two 4-bit inputs. Uses control lines for operation selection and outputs result with carry/zero flags. Built using basic digital components for learning CPU fundamentals.
+**4 bit Arithmetic Logic Unit**  
+---------------------------------------------------------------------------------------------------------------------------------
+**Description**  
+* 4 bit ALU is a logic operator that performs 4 bit addtion, subtraction using the logic gates, multiplexers and the output is shown
+---------------------------------------------------------------------------------------------------------------------------------
+**Features**
+* List of operations  
+      - Addition  
+      - Subtraction  
+      - AND,OR,NOT
+---------------------------------------------------------------------------------------------------------------------------------
+**Inputs & Outputs**  
+* Inputs  
+    - A (4-bit)  
+    - B (4-bit)  
+* Outputs  
+    - Result (4-bit)
+---------------------------------------------------------------------------------------------------------------------------------
